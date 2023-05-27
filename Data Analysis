@@ -1,0 +1,2 @@
+PIVOT:
+PIVOT rotates a table-valued expression by turning the unique values from one column in the expression into multiple columns in the output.
