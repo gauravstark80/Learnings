@@ -20,3 +20,6 @@ not find that intuitive. Collapsing those tables into five tables make the data 
 whereas if the user opens a table and finds 100 columns, they might find it overwhelming. Removing unneeded columns
 to provide a more manageable number increases the likelihood that the user reads all column names. To summarize,
 you should aim for simplicity when designing your data models.
+
+Data Model Reference:
+https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/1-introduction
