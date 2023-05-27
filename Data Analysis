@@ -1,2 +1,4 @@
 PIVOT:
 PIVOT rotates a table-valued expression by turning the unique values from one column in the expression into multiple columns in the output.
+
+https://github.com/MicrosoftLearning/PL-300-Microsoft-Power-BI-Data-Analyst.ko-kr/tree/main/Allfiles
