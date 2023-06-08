@@ -91,3 +91,26 @@ The Oracle EBS Accounts Receivable module uses a number of tables to store data 
 6. RA_BATCHES: This table stores information about batches of transactions that are processed together within the Accounts Receivable module. It includes details such as batch number, batch status, and batch type.
 7. RA_CUSTOMER_TRX_LINES_ALL: This table stores the line-level details for customer transactions. Each record in this table represents a single transaction line item, and includes information such as item description, quantity, unit price, and amount.
 These tables are some of the key tables in the Accounts Receivable module, and they provide the foundation for managing customer invoices, receipts, and other financial transactions. By storing financial information in a structured and organized way, these tables enable organizations to generate accurate and timely financial reports, manage their cash flow, and make informed decisions about financial management.
+
+------------------------
+Order Management Module:
+------------------------
+> The OE_ORDER_HEADERS_ALL table is part of the Oracle EBS Order Management module. This table stores header-level information for sales orders created within the Order Management module. Each record in this table represents a single sales order, and includes information such as order number, order date, customer information, and order status.
+The Order Management module is a core component of the Oracle EBS suite and provides tools for managing the entire order-to-cash process, from order entry to invoicing and payment. The module includes several sub-modules, such as:
+1. Order Entry: This sub-module provides tools for entering sales orders, including order entry templates, pricing and discounting rules, and order validation.
+2. Order Processing: This sub-module manages the processing of sales orders, including order pick, pack, and ship, order booking, and order fulfillment.
+3. Shipping Execution: This sub-module provides tools for managing the shipping process, including shipping documents, shipping labels, and shipping notifications.
+4. Pricing: This sub-module manages pricing for sales orders, including list prices, discounts, and promotions.
+5. Tax: This sub-module manages the tax calculation and reporting for sales orders, including tax jurisdiction rules, tax rates, and tax exemptions.
+Overall, the Order Management module is a critical component of Oracle EBS, providing organizations with the tools they need to manage the entire sales order process, from order entry to shipment and invoicing. By using the Order Management module, organizations can improve order accuracy, optimize order fulfillment, and streamline the order-to-cash process.
+
+Name a few of the key tables of Order Management module and elaborate.
+> The Oracle EBS Order Management module uses a number of tables to store data related to sales orders, pricing, shipping, and other order-related information. Here are some of the key tables and a brief description of each:
+1. OE_ORDER_HEADERS_ALL: This table stores header-level information for sales orders created within the Order Management module. It includes details such as order number, order date, customer information, and order status.
+2. OE_ORDER_LINES_ALL: This table stores line-level information for sales orders, including item information, quantity, pricing, and shipping details.
+3. OE_PRICE_ADJUSTMENTS: This table stores information about price adjustments made to sales orders. It includes details such as the adjustment type, adjustment amount, and adjustment reason.
+4. OE_SHIPMENTS: This table stores information about shipments made for sales orders. It includes details such as shipment number, shipment date, and shipment status.
+5. OE_TRANSACTION_TYPES_ALL: This table stores information about transaction types used within the Order Management module. It includes details such as transaction type code, transaction type name, and transaction type status.
+6. OE_SHIPPING_METHODS_TL: This table stores information about shipping methods used within the Order Management module. It includes details such as shipping method code, shipping method name, and shipping method description.
+7. OE_ORDER_HOLDS_ALL: This table stores information about holds placed on sales orders, including the hold type, hold reason, and hold status.
+These tables are some of the key tables in the Order Management module, and they provide the foundation for managing sales orders, pricing, shipping, and other order-related information. By storing order data in a structured and organized way, these tables enable organizations to generate accurate and timely order reports, manage their order-to-cash process, and make informed decisions about order management.
