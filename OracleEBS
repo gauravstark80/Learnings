@@ -114,3 +114,6 @@ Name a few of the key tables of Order Management module and elaborate.
 6. OE_SHIPPING_METHODS_TL: This table stores information about shipping methods used within the Order Management module. It includes details such as shipping method code, shipping method name, and shipping method description.
 7. OE_ORDER_HOLDS_ALL: This table stores information about holds placed on sales orders, including the hold type, hold reason, and hold status.
 These tables are some of the key tables in the Order Management module, and they provide the foundation for managing sales orders, pricing, shipping, and other order-related information. By storing order data in a structured and organized way, these tables enable organizations to generate accurate and timely order reports, manage their order-to-cash process, and make informed decisions about order management.
+
+
+
