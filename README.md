@@ -9,3 +9,5 @@
 
 Mistakes:
 Make sure to use appropriate naming conventions, as in Flask app I created folder named 'template' insted of 'templates' and which was consistently throwing error untill I corrected it with appropriate naming convention. 
+
+Using set() instead of List() in python to store unique values to validate later wheater a specific value exists in it or not really is time and compute efficient.
