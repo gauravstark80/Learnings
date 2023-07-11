@@ -116,4 +116,4 @@ Name a few of the key tables of Order Management module and elaborate.
 These tables are some of the key tables in the Order Management module, and they provide the foundation for managing sales orders, pricing, shipping, and other order-related information. By storing order data in a structured and organized way, these tables enable organizations to generate accurate and timely order reports, manage their order-to-cash process, and make informed decisions about order management.
 
 
-
+Invoices are issued prior to the customer sending the payment, whereas a receipt is issued after the payment has been received.
