@@ -12,5 +12,7 @@ Make sure to use appropriate naming conventions, as in Flask app I created folde
 
 Using set() instead of List() in python to store unique values to validate later wheater a specific value exists in it or not really is time and compute efficient.
 
-#ANN
+# ANN
+https://www.youtube.com/watch?v=w8yWXqWQYmU
+[ML Tutorial Project ] { https://www.youtube.com/watch?v=w8yWXqWQYmU/ }
 <img width="700" alt="image" src="https://github.com/gauravstark80/Learnings/assets/52076806/be792ca0-d976-463c-b454-8a828733b005">
