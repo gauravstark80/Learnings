@@ -88,3 +88,10 @@ print('Start: ',graph3[59612])
 print(validPath(n=100000,edges=edges3,source= 59612,destination= 79883))
 print('End')
 print(undirectedPath(graph=graph3,nodeA= 59612,nodeB= 79883))
+
+
+
+Brute Force Method:
+A brute force algorithm solves a problem through exhaustion: it goes through all possible choices until a solution is found.
+The time complexity of a brute force algorithm is often proportional to the input size. Brute force algorithms are simple and consistent, but very slow.
+Ex: Finding a password match by trying out all possible combinations.
