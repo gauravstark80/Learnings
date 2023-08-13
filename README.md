@@ -15,3 +15,9 @@ Using set() instead of List() in python to store unique values to validate later
 # ANN
 [ANN Project ] { https://www.youtube.com/watch?v=w8yWXqWQYmU/ }
 <img width="700" alt="image" src="https://github.com/gauravstark80/Learnings/assets/52076806/be792ca0-d976-463c-b454-8a828733b005">
+
+# Efficient Coding
+1. Greedy Approach
+2. Divide And Conquer
+3. Dynamic Programming
+4. Mathematics Based problem
