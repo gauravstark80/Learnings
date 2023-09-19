@@ -23,3 +23,22 @@ you should aim for simplicity when designing your data models.
 
 Data Model Reference:
 https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/1-introduction
+
+Varieties in data:
+-------------
+Temporal Data   : Data with a time component attatched to it. Example - Opening and Closing values of a stock in a year.
+Topical Data    : Data connected with topics. Example :Feedback from customers.
+Geospatial Data : Data with a physical location as an attribute.
+Network Data    : Data in the form of nodes and links between nodes. Ex: Social network data.
+Tree Data       : Data which is basically a network data but with some hierarchy in it.
+-------------
+
+Generally, data can be of two types:
+1. Qualitative/Categorical Data: Data that deals with characteristics and descriptions. It is further categorised as:
+Binary: Data that is dichotomous. For example, True/False, Yes/No, 1/0 etc.
+Nominal: Data with no ordering or ranking. For example, different colors, blood groups, nationality etc.
+Ordinal: Data with specific order or ranking. For example, height (short, medium, tall), income (low, medium, high), etc.
+
+2. Quantitative/Numerical Data: Data that is numerical in nature and can be measured. It is further categorised as:
+Discrete: Data that can be counted (whole numbers). For example, number of floors in a building, number of students in a classroom, etc.
+Continuous: Data that can take any value within a range. For example, weight, mileage of a car, etc.
